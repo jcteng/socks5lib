@@ -4,7 +4,7 @@ socks5lib is a stream based socks5 parser to speedup socks5 server and tunel dev
 
 ## Features
 
-1. Only support NOAUTH mode. In most time ,socks5 used as tunel local broker. No authentication required for those cases.
+1. Only support NOAUTH mode. In most time ,socks5 used as tunnel's local broker. No authentication required for those cases.
 
 2. Support all rfc defined commands. Include Connect/BIND/UDP ASSOCICATE
 
