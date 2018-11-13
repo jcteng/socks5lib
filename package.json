@@ -1,0 +1,26 @@
+{
+  "name": "socks5lib",
+  "version": "0.1.1",
+  "description": "A library to speedup socks5 server development\nOne full featured socks5 server sample also included",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {    
+    "ip": "^1.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+	"start":"node socks5server.js" ,
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "socks5",
+    "server",
+    "proxy",
+    "library",
+	"tunnel"
+  ],  
+  "author": "jianchao.teng@outlook.com",
+  "license": "MIT"
+}
