@@ -1,11 +1,16 @@
 {
   "name": "socks5lib",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A library to speedup socks5 server development\nOne full featured socks5 server sample also included",
   "main": "index.js",
   "directories": {
     "lib": "lib"
   },
+  "homepage": "https://github.com/jcteng/socks5lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jcteng/socks5lib.git"
+  },  
   "dependencies": {    
     "ip": "^1.1.5"
   },
